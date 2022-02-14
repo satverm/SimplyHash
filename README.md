@@ -1,5 +1,6 @@
 # SimplyHash
-A simple python program to hash any text
+A simple python program to hash any text.
+## Requirements: You need the python to run the program. 
 ## How to use: The program generates the sha256( Secure hash algorithm)hash of any input given by the user.
    
  The sha256 is a 256 bit length binary code but we are using the 64 bit hexadecimal output of the same.
