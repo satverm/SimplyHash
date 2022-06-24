@@ -1,4 +1,5 @@
-# SimplyHash
+# SimplyHash :The saltedhash branch uses a salt to generate a hash
+The salt is additional strings which is combined with the text to be hashes with the aim to provide additional security.
 A simple python program to hash any text.
 ## Requirements: You need the python to run the program. 
 ## How to use: The program generates the sha256( Secure hash algorithm)hash of any input given by the user.
